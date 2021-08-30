@@ -1,2 +1,2 @@
 # Email_Steps-Validation
-Create a project for email verification
+Create a project for email verification, step creation
