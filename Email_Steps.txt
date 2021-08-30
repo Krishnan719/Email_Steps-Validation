@@ -3,3 +3,7 @@
 2. Click Login button.
 
 3. Click Compose, write down the steps and perform Send button to correct recipient.
+
+4. Adding Reply feature.
+
+5. Adding Reply All feature.
