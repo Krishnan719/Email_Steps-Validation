@@ -1,0 +1,5 @@
+1. Login to Email application.
+
+2. Click Login button.
+
+3. Click Compose, write down the steps and perform Send button to correct recipient.
